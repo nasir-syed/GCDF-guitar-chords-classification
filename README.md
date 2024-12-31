@@ -2,7 +2,7 @@
 A TensorFlow CNN model to classify images of the G, C, D and F guitar chords with accuracy of ~95% on test data.
 
 
-# Webcam Model Inference Results:
+# Webcam Model Inference Results
 ## G Chord
 ![image](https://github.com/user-attachments/assets/e85cd792-c2e0-4ad9-9440-7e67780640d1)
 
